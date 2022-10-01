@@ -1,0 +1,7 @@
+H:\ESAD_CS_R49\WCF\Class_001\ESAD_CS_R49_M_10_D001\WCF_Test_WithConsole\bin\Debug\WCF_Test_WithConsole.exe.config
+H:\ESAD_CS_R49\WCF\Class_001\ESAD_CS_R49_M_10_D001\WCF_Test_WithConsole\bin\Debug\WCF_Test_WithConsole.exe
+H:\ESAD_CS_R49\WCF\Class_001\ESAD_CS_R49_M_10_D001\WCF_Test_WithConsole\bin\Debug\WCF_Test_WithConsole.pdb
+H:\ESAD_CS_R49\WCF\Class_001\ESAD_CS_R49_M_10_D001\WCF_Test_WithConsole\obj\Debug\WCF_Test_WithConsole.csproj.AssemblyReference.cache
+H:\ESAD_CS_R49\WCF\Class_001\ESAD_CS_R49_M_10_D001\WCF_Test_WithConsole\obj\Debug\WCF_Test_WithConsole.csproj.CoreCompileInputs.cache
+H:\ESAD_CS_R49\WCF\Class_001\ESAD_CS_R49_M_10_D001\WCF_Test_WithConsole\obj\Debug\WCF_Test_WithConsole.exe
+H:\ESAD_CS_R49\WCF\Class_001\ESAD_CS_R49_M_10_D001\WCF_Test_WithConsole\obj\Debug\WCF_Test_WithConsole.pdb

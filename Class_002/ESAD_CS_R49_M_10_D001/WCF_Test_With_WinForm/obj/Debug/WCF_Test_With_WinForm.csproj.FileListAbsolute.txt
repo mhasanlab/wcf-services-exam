@@ -1,0 +1,10 @@
+H:\ESAD_CS_R49\WCF\Class_002\ESAD_CS_R49_M_10_D001\WCF_Test_With_WinForm\bin\Debug\WCF_Test_With_WinForm.exe.config
+H:\ESAD_CS_R49\WCF\Class_002\ESAD_CS_R49_M_10_D001\WCF_Test_With_WinForm\bin\Debug\WCF_Test_With_WinForm.exe
+H:\ESAD_CS_R49\WCF\Class_002\ESAD_CS_R49_M_10_D001\WCF_Test_With_WinForm\bin\Debug\WCF_Test_With_WinForm.pdb
+H:\ESAD_CS_R49\WCF\Class_002\ESAD_CS_R49_M_10_D001\WCF_Test_With_WinForm\obj\Debug\WCF_Test_With_WinForm.csproj.AssemblyReference.cache
+H:\ESAD_CS_R49\WCF\Class_002\ESAD_CS_R49_M_10_D001\WCF_Test_With_WinForm\obj\Debug\WCF_Test_With_WinForm.Form1.resources
+H:\ESAD_CS_R49\WCF\Class_002\ESAD_CS_R49_M_10_D001\WCF_Test_With_WinForm\obj\Debug\WCF_Test_With_WinForm.Properties.Resources.resources
+H:\ESAD_CS_R49\WCF\Class_002\ESAD_CS_R49_M_10_D001\WCF_Test_With_WinForm\obj\Debug\WCF_Test_With_WinForm.csproj.GenerateResource.cache
+H:\ESAD_CS_R49\WCF\Class_002\ESAD_CS_R49_M_10_D001\WCF_Test_With_WinForm\obj\Debug\WCF_Test_With_WinForm.csproj.CoreCompileInputs.cache
+H:\ESAD_CS_R49\WCF\Class_002\ESAD_CS_R49_M_10_D001\WCF_Test_With_WinForm\obj\Debug\WCF_Test_With_WinForm.exe
+H:\ESAD_CS_R49\WCF\Class_002\ESAD_CS_R49_M_10_D001\WCF_Test_With_WinForm\obj\Debug\WCF_Test_With_WinForm.pdb

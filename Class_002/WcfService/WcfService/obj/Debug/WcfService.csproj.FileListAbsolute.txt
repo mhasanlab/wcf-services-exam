@@ -1,0 +1,12 @@
+H:\ESAD_CS_R49\WCF\Class_002\WcfService\WcfService\bin\WcfService.dll.config
+H:\ESAD_CS_R49\WCF\Class_002\WcfService\WcfService\bin\WcfService.dll
+H:\ESAD_CS_R49\WCF\Class_002\WcfService\WcfService\bin\WcfService.pdb
+H:\ESAD_CS_R49\WCF\Class_002\WcfService\WcfService\obj\Debug\WcfService.csproj.AssemblyReference.cache
+H:\ESAD_CS_R49\WCF\Class_002\WcfService\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+H:\ESAD_CS_R49\WCF\Class_002\WcfService\WcfService\obj\Debug\WcfService.dll
+H:\ESAD_CS_R49\WCF\Class_002\WcfService\WcfService\obj\Debug\WcfService.pdb
+H:\ESAD_CS_R49\WCF\Class_002\WcfService\WcfService\bin\EntityFramework.dll
+H:\ESAD_CS_R49\WCF\Class_002\WcfService\WcfService\bin\EntityFramework.SqlServer.dll
+H:\ESAD_CS_R49\WCF\Class_002\WcfService\WcfService\bin\EntityFramework.xml
+H:\ESAD_CS_R49\WCF\Class_002\WcfService\WcfService\bin\EntityFramework.SqlServer.xml
+H:\ESAD_CS_R49\WCF\Class_002\WcfService\WcfService\obj\Debug\WcfService.csproj.CopyComplete
